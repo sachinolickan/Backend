@@ -4,6 +4,4 @@
     "port": 3000,
     "tokenLife": 70,
     "refreshTokenLife": 86400
-    
 }
- 
